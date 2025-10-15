@@ -1,4 +1,3 @@
-#one piece
 🏴‍☠️ One Piece Themed Landing Page
 
 A responsive and visually engaging frontend landing page inspired by my favorite anime — One Piece.
